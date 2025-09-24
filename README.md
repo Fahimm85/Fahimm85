@@ -1,34 +1,59 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1163152034813030480?bg=1e1e2e&borderRadius=20px" alt="Discord Presence">
+  <img src="Fahim_banner.png" alt="Fahim Banner" width="100%">
 </p>
 
-# 👋 Hey, I'm Fahim  
+<h3 align="center">⚡ Building Smarter Discord Bots...</h3>
 
 ---
 
-## 🛠 Tech Stack  
+## `👋` About Me
+Hey! I’m **Fahim** — a passionate **Discord Bot Developer** who loves creating feature-rich bots.  
+I specialize in **automation, moderation, music, and AI-powered bots** that enhance Discord servers.  
 
-### 🔹 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f7df1e)  
-![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB)  
-![Java](https://img.shields.io/badge/Java-1e1e2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)  
-
-### 🔹 Frameworks & Libraries  
-![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=node.js&logoColor=339933)  
-![Express.js](https://img.shields.io/badge/Express.js-1e1e2e?style=for-the-badge&logo=express&logoColor=white)  
-![Discord.js](https://img.shields.io/badge/Discord.js-1e1e2e?style=for-the-badge&logo=discord&logoColor=5865F2)  
-
-### 🔹 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=47A248)  
-![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1)  
-
-### 🔹 APIs  
-![Lanyard API](https://img.shields.io/badge/Lanyard%20API-1e1e2e?style=for-the-badge&logo=discord&logoColor=5865F2)  
-![REST API](https://img.shields.io/badge/REST%20API-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=009688)  
+- 💻 Mainly **JavaScript (Node.js)** & **Discord.js v14**  
+- 🛠 Experience with **MongoDB, MySQL, Canvas, API integrations (Lanyard API)**  
+- 🌌 Dark UI enthusiast, always experimenting with new ideas  
 
 ---
 
-## 📫 Connect with Me  
-- GitHub: [Fahimm86](https://github.com/Fahimm86)  
-- Discord: `your_discord_tag_here`  
+## `💻` Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,discordjs,mongodb,mysql,python,java,vscode,git&theme=dark" />
+</p>
+
+---
+
+## `🌐` Social Links
+<p align="center">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fahimm86" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_IG_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## `📡` Live Discord Status
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?bg=1e1e2e&borderRadius=20px" alt="Discord Presence">
+</p>
+
+---
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="readme Quotes" />
+  </a>
+</div>
